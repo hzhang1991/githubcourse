@@ -4,6 +4,9 @@ Step
 	 cd filepath
 1. git init
 2. git remote add origin *github.git
+	 git add file
+	 git add ./*
+	 git commit -m "update"
 3. git push origin master 
 4. git pull *.git
 	 git pull
