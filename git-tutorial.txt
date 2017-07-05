@@ -1,0 +1,9 @@
+Step
+0. Create repoistry in github
+	 mkdir filepath
+	 cd filepath
+1. git init
+2. git remote add origin *github.git
+3. git push origin master 
+4. git pull *.git
+	 git pull
