@@ -9,4 +9,6 @@ Step
 	 git commit -m "update"
 3. git push origin master 
 4. git pull *.git
-	 git pull
+ 	git pull
+	
+	from website
