@@ -1,4 +1,4 @@
-Step
+### Start
 0. Create repoistry in github
 	 mkdir filepath
 	 cd filepath
@@ -12,3 +12,10 @@ Step
  	git pull
 	
 	from website
+
+
+### Add a tag
+	git tag -a taginfo -m "paper submitted"
+	git tag
+	git push origin taginfo
+
